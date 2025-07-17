@@ -4,7 +4,6 @@ github_users:
 github_repos:
   - ZhuoyaSHI/Fine-tune-BERT-for-text-classification-with-TensorFlow
   - ZhuoyaSHI/LLMs_from_scratch
-  - ZhuoyaSHI/bilab-nyu/cities_bilab
   - ZhuoyaSHI/DOB-FISP-Reports
   - ZhuoyaSHI/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
   - ZhuoyaSHI/ifcjs-crash-course 

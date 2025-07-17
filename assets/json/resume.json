@@ -215,12 +215,14 @@
     {
       "name": "A Model-Based and Data-Driven Approach for Comprehensive and Consistent Inspection of Urban Façades.",
       "publisher": "Advanced Engineering Informatics (Under Review)",
-      "releaseDate": "2025"
+      "releaseDate": "2025",
+      "url":""
     },
     {
       "name": "Towards a comprehensive and consistent urban façade inspection process: Data-driven analysis of façade inspection reports for capturing inspection requirements.",
       "publisher": "Journal of Construction Engineering and Management (Accepted)",
-      "releaseDate": "2025"
+      "releaseDate": "2025",
+      "url":""
     },
     {
       "name": "Spatial clustering and NLP-based analysis of defect patterns on urban façades: Implementation on NYC buildings",
