@@ -194,17 +194,6 @@
       "courses": [
       
       ]
-    },
-    {
-      "institution": "Chang'an University, Xi'an, Shaanxi, China",
-      "url": "https://en.chd.edu.cn/",
-      "area": "Construction Cost",
-      "studyType": "Bachelor",
-      "startDate": "2010-09-01",
-      "endDate": "2024-06-10",
-      "score": "",
-      "courses": [
-      ]
     }
   ],
   "awards": [
@@ -219,35 +208,43 @@
       "date": "2018",
       "awarder": "New York University",
       "summary": ""
-    },
-    {
-      "title": "First-class Scholarship",
-      "date": "2011-2014",
-      "awarder": "School of Civil Engineering, Chang'an University",
-      "summary": ""
-    },
-    {
-      "title": "Merit Student Cadre of Chang'an University",
-      "date": "2013",
-      "awarder": "Chang'an University",
-      "summary": ""
     }
   ],
 
   "publications": [
     {
+      "name": "A Model-Based and Data-Driven Approach for Comprehensive and Consistent Inspection of Urban Façades.",
+      "publisher": "Advanced Engineering Informatics (Under Review)",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Towards a comprehensive and consistent urban façade inspection process: Data-driven analysis of façade inspection reports for capturing inspection requirements.",
+      "publisher": "Journal of Construction Engineering and Management (Accepted)",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Spatial clustering and NLP-based analysis of defect patterns on urban façades: Implementation on NYC buildings",
+      "publisher": "Cities",
+      "releaseDate": "2025",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0264275125004834"
+    },
+    {
+      "name": "Transforming Urban Façade Condition Assessments with Semantic Data Visualizations and 3D Spatial Layouts from BIMs",
+      "publisher": "Buildings",
+      "releaseDate": "2025",
+      "url": "https://www.mdpi.com/2075-5309/15/3/458"
+    },
+    {
       "name": "Towards quantifying human experience in the built environment: A crowdsourcing based experiment to identify influential architectural design features",
       "publisher": "Journal of Building Engineering",
       "releaseDate": "2018",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734",
-      "summary": "This project investigates the impact of architectural design features on human experience using crowdsourced data. It identifies key design elements that significantly influence aspects such as restorativeness, stress and anxiety, aesthetics, and motivation. The findings provide a framework for objectively quantifying how design features affect human experiences in various spaces, offering practical insights for architects and designers to enhance built environments."
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734"
     },
     {
       "name": "Proactive 2D model-based scan planning for existing buildings",
       "publisher": "Automation in Construction",
       "releaseDate": "2018",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734",
-      "summary": "We proposes a framework for optimizing scan planning using 2D models to improve the efficiency and accuracy of data collection for building information models (BIM). The framework integrates three search algorithms to generate initial scan plans and refine them, demonstrating that a combination of greedy search with backtracking and simulated annealing algorithms effectively enhances the scanning process, reducing the need for site revisits and improving overall data quality."
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734"
     }
   ],
 
